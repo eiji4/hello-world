@@ -2,3 +2,5 @@ major release v1 !!
 
 stable release
 new feature #1 added
+bug #1 fixed.
+
