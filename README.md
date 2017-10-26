@@ -1,11 +1,4 @@
 # hello-world
-test repository
-unko
-this is test edit.
+# tinko
 
- hoge
- 
-hoge
-
-edited 2 files at the same time!!
-deleted the bad word.
+stable release v1 !
