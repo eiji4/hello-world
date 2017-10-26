@@ -1,3 +1,5 @@
 major release v1 !!
 
 stable release
+
+bug #1 fixed.
