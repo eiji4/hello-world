@@ -1,5 +1,5 @@
 # hello-world
-# tinko
+# hoge
 
 
 stable release v1 
